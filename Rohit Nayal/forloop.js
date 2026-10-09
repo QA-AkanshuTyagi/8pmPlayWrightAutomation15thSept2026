@@ -35,3 +35,9 @@ for (let i = 0; i < numbers1.length; i++) {
 }
 
 console.log("Sum =", sum);
+
+
+let fnames = ["Rohit", "Nayal", "John", "Doe", "Jane", "Smith", "Alice", "Bob", "Charlie", "David", "Eve", "Frank", "Grace", "Hannah", "Ivy", "Jack", "Kathy", "Liam", "Mia", "Noah", "Olivia", "Paul", "Quinn", "Ryan", "Sophia", "Thomas", "Uma", "Victor", "Wendy", "Xander", "Yara", "Zane"];
+for (let i = 0; i < fnames.length; i++) {
+    console.log(fnames[i]);
+}
