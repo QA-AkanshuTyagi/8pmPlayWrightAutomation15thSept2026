@@ -19,12 +19,37 @@
 // let a=5;
 // let b=5;
 
-console.log("5=2",a==b); //True
-console.log("5=5",a!=b); //false
+//console.log("5=2",a==b); //True
+//console.log("5=5",a!=b); //false
 // DIFFERENCE BETWEEN == AND ===
-let a=5;
-let b="5";
-console.log("a==b",a==b);
+// let a=5;
+// let b="5";
+// console.log("a==b",a==b);
+//LOGICAL OPERATORS
+// let C=7;
+// let D=12;
+
+// console.log("C>D && C<D",C>D && C<D);
+// console.log("C>D || C<D",C>D || C<D);
+// console.log("!(C>D)",!(C>D));
 
 
 
+// conditional statements
+
+// let color;
+//  let mode;
+// mode="dark-mode";
+// if (mode==="dark-mode")
+// {
+//     color="black";
+// }
+
+// console.log("color=",color);
+
+
+let age= 20;
+if (age>=18)
+{
+    console.log("You are eligible for voting");
+}
