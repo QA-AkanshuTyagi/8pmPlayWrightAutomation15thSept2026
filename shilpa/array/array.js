@@ -23,8 +23,8 @@ fnames[1]="madhav"
 // // words are present in the array.
 
 
-for (let i=0; i<fnames.length;i++)            // we are using this  for loop to print all the words 
-{                                    // in the array without using console.log again and again
+for (let i=0; i<fnames.length;i++)  // we are using this  for loop to print all the words 
+{                                // in the array without using console.log again and again
         console.log(fnames[i]);      //for printing every word of the array individually.
 }                                  
 
