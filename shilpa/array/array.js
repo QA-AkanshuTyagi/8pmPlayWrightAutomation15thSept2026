@@ -1,4 +1,4 @@
-let fname = "shilpa";
+let fname = "shilpa1";
 let fnames =["radha","krishna","vrindavan", "barsana", "braj", true, 0, 100, null, undefined ];
 
 //     In JAVASCRIPT  An array can contain string , number, boolean,null , undefined.
