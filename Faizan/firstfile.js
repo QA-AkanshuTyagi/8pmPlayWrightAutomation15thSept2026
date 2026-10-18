@@ -48,8 +48,46 @@
 // console.log("color=",color);
 
 
-let age= 20;
-if (age>=18)
-{
-    console.log("You are eligible for voting");
-}
+// let age= 20;
+// if (age>=18)
+// {
+//     console.log("You are eligible for voting");
+// }
+// let age= 75;
+// if (age<=18){
+//     console.log("Junior Developer");}
+// else if (age >60)
+// {
+//     console.log("Senior Developer");
+// }
+// else 
+// {
+//     console.log("Not Eligible");        
+// }
+// Ternary operator
+// let age=15;
+// let result = age >=18 ? "Adult" : "Not Adult";
+// console.log("age=",age);
+// console.log("result=",result);
+
+// let num = prompt("Enter a number ");
+// if (num%5==0)
+// { 
+//    console.log("number is divisible by 5"); 
+//    }
+//    else 
+//    {
+//     console.log("number is not divisible by 5");  
+//  }
+
+let marks = prompt("Enter your marks");
+if (marks>=80 && marks<=100)
+{console.log("Grade A");}
+else if (marks>=70 && marks<79)
+{console.log("Grade B");}
+else if (marks>=60 && marks<69)
+{console.log("Grade C");}   
+else if (marks>=50 && marks<59)
+{console.log("Grade D");}
+else if(marks>= 0 && marks<49)
+{console.log("Grade F");}
