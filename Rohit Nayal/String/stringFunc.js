@@ -51,7 +51,7 @@ for(i=0; i<fname.length;i++)
 }
 
 console.log(lname.endsWith("l"));   // ye string ke last character ko check karega ki kya ye 'l' se end hota h ya nahi
-console.log(fname.endsWith("t"));   // ye string ke last character ko check karega ki kya ye 'a' se end hota h ya nahi
+console.log(fname.endsWith("t"));   // ye string ke last character ko check karega ki kya ye 't' se end hota h ya nahi
 console.log(fname.endsWith("n"));   // ye string ke last character ko check karega ki kya ye 'n' se end hota h ya nahi
 
 console.log(fname.includes("Rohit"));   // ye string ke andar 'Rohit' present h ya nahi check karega
