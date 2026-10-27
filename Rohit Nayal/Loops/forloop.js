@@ -7,9 +7,9 @@ for (let i = 1; i <= 10; i++) {
 }
 
 
-let name="Rohit Nayal";
-for (let i = 0; i < name.length; i++) {
-    console.log(name[i]);
+let name1="Rohit Nayal";
+for (let i = 0; i < name1.length; i++) {
+    console.log(name1[i]);
 }
 
 
