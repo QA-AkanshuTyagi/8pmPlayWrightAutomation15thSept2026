@@ -10,3 +10,4 @@ if (age >= 18) {
 } else {
     console.log("You are not old enough to drive.");
 }
+
